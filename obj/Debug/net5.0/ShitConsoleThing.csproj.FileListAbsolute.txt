@@ -1,0 +1,15 @@
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ShitConsoleThing.exe
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ShitConsoleThing.deps.json
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ShitConsoleThing.runtimeconfig.json
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ShitConsoleThing.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ShitConsoleThing.dll
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ref\ShitConsoleThing.dll
+C:\Users\tyler\source\repos\ShitConsoleThing\bin\Debug\net5.0\ShitConsoleThing.pdb
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.AssemblyInfo.cs
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.dll
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ref\ShitConsoleThing.dll
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.pdb
+C:\Users\tyler\source\repos\ShitConsoleThing\obj\Debug\net5.0\ShitConsoleThing.genruntimeconfig.cache
